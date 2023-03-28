@@ -1,0 +1,12 @@
+.dark_click,
+.light_click {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+.dark_click {
+  background-color: black;
+  color: white;
+}
+.light_click {
+  background-color: yellow;
+}
